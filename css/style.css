@@ -2589,14 +2589,14 @@ body {
   left: 0;
   bottom: 0;
   z-index: 90;
-  width: 420px;
+  width: 480px;
 }
 .header .nav,
 .header .aside {
   float: left;
 }
 .content {
-  margin-left: 420px;
+  margin-left: 480px;
   padding: 15px 30px;
   min-height: calc(100% - 40px - 30px);
   overflow-x: hidden;
@@ -2775,7 +2775,7 @@ body {
 .nav {
   position: relative;
   z-index: 80;
-  width: 120px;
+  width: 180px;
   height: 100%;
   background-color: #272822;
   background-color: var(--color-nav);
@@ -2811,7 +2811,7 @@ body {
   top: 0;
   left: 0;
   padding-left: 4px;
-  min-width: 124px;
+  min-width: 184px;
   border-radius: 0 6px 6px 0;
 }
 .nav-item:hover .nav-text {
@@ -3453,7 +3453,7 @@ body {
   margin-left: 1.5em;
 }
 .footer {
-  margin-left: 420px;
+  margin-left: 480px;
   height: 40px;
   line-height: 40px;
   color: #999;
